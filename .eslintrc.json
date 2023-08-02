@@ -6,6 +6,7 @@
       {
         "endOfLine": "auto"
       }
-    ]
+    ],
+    "camelcase": "off"
   }
 }
